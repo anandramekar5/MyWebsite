@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    text-align: center; 
+    font-family: 'Merriweather', serif;   
+}
+
+h1{
+    width: 20%;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 60px;
+    font-family: 'Sacramento', cursive;
+    font-size: 2.8rem;
+    color:#31a5a5;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+h3{
+    font-family: 'Nunito Sans', sans-serif;
+    color:  #11999E;
+}
+
+.programmer{
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    color: #31a5a5;
+    font-weight: normal;
+}
+
+.top-container{
+    background-color:#a3d2ca;
+    padding: 80px;
+}
+
+.middle-container{
+    margin-top: 70px;
+}
+
+.bottom-container{
+    background-color: #a3d2ca;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 410px;
+    top: 260px;
+}
+ 
+.top-cloud{
+    position: absolute;
+    right: 430px;
+    top: 40px;
+}
+
+.mountain{
+    position: relative;
+    top: 84px;
+}
+
+.anu-pic{
+    width: 200px;
+}
+
+.footer-link{
+    color:  #11999E;
+    font-size: 22px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.webdev{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hotwing{
+    width: 30%;
+    float:right;
+    margin-left: 30px;
+}
+
+#row-one{
+    width: 31%;
+}
+
+#copyright{
+    color: cornsilk;
+    font-size: 22px;
+}
